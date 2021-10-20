@@ -1,0 +1,5 @@
+main.c:67:5:main	8	static
+main.c:114:6:SystemClock_Config	232	static
+main.c:173:6:HAL_SAI_TxCpltCallback	16	static
+main.c:178:6:HAL_SAI_TxHalfCpltCallback	16	static
+main.c:188:6:Error_Handler	4	static,ignoring_inline_asm
